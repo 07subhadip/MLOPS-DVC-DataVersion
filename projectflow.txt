@@ -17,5 +17,5 @@
 15. Now repeat step 11-12 for V3 of data
 
 git log --oneline
-git checkout <hash> - git checkout master
+git checkout <hash> - git checkout main
 dvc pull
